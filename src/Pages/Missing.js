@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './Resources/mug.png'
+import logo from '../Resources/mug.png'
 import { Row, Col } from 'react-bootstrap'
 
 const Missing = () => {
