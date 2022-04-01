@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-
+      <Route exact path=  "/" component= {Missing}/>
       <Route exact path=  "/Missing" component= {Missing}/>
       <Route exact path=  "/Ferry" component= {Ferry}/>
       <Route exact path=  "/Canada" component= {Canada}/>
