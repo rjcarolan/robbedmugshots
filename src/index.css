@@ -42,5 +42,9 @@ code {
 
 .image {
   height: 500px;
+  width: 400px;
+}
+.image2 {
+  height: 400px;
   width: 500px;
 }
