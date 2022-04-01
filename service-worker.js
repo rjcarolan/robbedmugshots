@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rjcarolan/robbedmugshots.git/precache-manifest.83d6e6bfe7df67b4c53b2be2ccf58bbf.js"
+  "/rjcarolan/robbedmugshots.git/precache-manifest.494da61382c4e2faa686f3b8aca9e6e5.js"
 );
 
 workbox.clientsClaim();
